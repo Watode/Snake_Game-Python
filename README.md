@@ -14,11 +14,13 @@ To run this game, you need to have Python and the Pygame library installed on yo
        2.	Install Pygame: Open your terminal or command prompt and run the following command: "pip install pygame"
 
 🎮 Controls:
+
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f8556000-e833-4ab6-b37e-db2058964986" />
 
 
 🖼️ Game Assets:
 The project uses the following files:
+
 <img width="500" height="175" alt="image" src="https://github.com/user-attachments/assets/d3b92a14-b7a7-4b88-ab6e-1e04d9bf2898" />
 
 
