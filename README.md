@@ -14,27 +14,12 @@ To run this game, you need to have Python and the Pygame library installed on yo
        2.	Install Pygame: Open your terminal or command prompt and run the following command: "pip install pygame"
 
 🎮 Controls:
-_____________________________________________________
-|   Key	         |    Action                        |
-----------------------------------------------------|
-|Up Arrow	       |   Move Up                        |
-|Down Arrow 	   |   Move Down                      |
-|Left Arrow	     |   Move Left                      |
-|Right Arrow     |   Move Right                     |
-|Enter (Return)	 |   Resume Game after Game Over    |
-|Escape	         |   Exit Game                      |
------------------------------------------------------
+<img width="893" height="370" alt="image" src="https://github.com/user-attachments/assets/f8556000-e833-4ab6-b37e-db2058964986" />
+
 
 🖼️ Game Assets:
 The project uses the following files:
-_________________________________________________________________________________
-|  File  Name      |   	Type	        |       Description                        |
-|--------------------------------------------------------------------------------|
-|  SnakeGame.py	   |  Python Script   | 	The main game logic.                   |
-|  background.jpg	 |  Image           | 	Dark green textured background.        |
-|  block.jpg	     |  Image	          |   The block used for the snake's body.   |
-|  apple.jpg	     |  Image	          |   The food item the snake must eat.      |
-|  ding.mp3	       |  Audio	          |   Sound effect for eating an apple.      |
-|  crash.mp3	     |  Audio	          |   Sound effect for colliding/Game Over.  |
-----------------------------------------------------------------------------------
+<img width="1254" height="374" alt="image" src="https://github.com/user-attachments/assets/d3b92a14-b7a7-4b88-ab6e-1e04d9bf2898" />
+
+
 
